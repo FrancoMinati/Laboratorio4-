@@ -1,0 +1,1541 @@
+[{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee383"
+  },
+  "codigoPais": "016",
+  "nombrePais": "American Samoa",
+  "capitalPais": "Pago Pago",
+  "region": "Oceania",
+  "poblacion": 55197,
+  "latitud": -14.33333333,
+  "longitud": -170
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee384"
+  },
+  "codigoPais": "660",
+  "nombrePais": "Anguilla",
+  "capitalPais": "The Valley",
+  "region": "Americas",
+  "poblacion": 13452,
+  "latitud": 18.25,
+  "longitud": -63.16666666
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee385"
+  },
+  "codigoPais": "028",
+  "nombrePais": "Antigua and Barbuda",
+  "capitalPais": "Saint John's",
+  "region": "Americas",
+  "poblacion": 97928,
+  "latitud": 17.05,
+  "longitud": -61.8
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee386"
+  },
+  "codigoPais": "044",
+  "nombrePais": "Bahamas",
+  "capitalPais": "Nassau",
+  "region": "Americas",
+  "poblacion": 393248,
+  "latitud": 24.25,
+  "longitud": -76
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee387"
+  },
+  "codigoPais": "052",
+  "nombrePais": "Barbados",
+  "capitalPais": "Bridgetown",
+  "region": "Americas",
+  "poblacion": 287371,
+  "latitud": 13.16666666,
+  "longitud": -59.53333333
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee388"
+  },
+  "codigoPais": "060",
+  "nombrePais": "Bermuda",
+  "capitalPais": "Hamilton",
+  "region": "Americas",
+  "poblacion": 63903,
+  "latitud": 32.33333333,
+  "longitud": -64.75
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee389"
+  },
+  "codigoPais": "092",
+  "nombrePais": "Virgin Islands (British)",
+  "capitalPais": "Road Town",
+  "region": "Americas",
+  "poblacion": 30237,
+  "latitud": 18.431383,
+  "longitud": -64.62305
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee38a"
+  },
+  "codigoPais": "124",
+  "nombrePais": "Canada",
+  "capitalPais": "Ottawa",
+  "region": "Americas",
+  "poblacion": 38005238,
+  "latitud": 60,
+  "longitud": -95
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee38b"
+  },
+  "codigoPais": "136",
+  "nombrePais": "Cayman Islands",
+  "capitalPais": "George Town",
+  "region": "Americas",
+  "poblacion": 65720,
+  "latitud": 19.5,
+  "longitud": -80.5
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee38c"
+  },
+  "codigoPais": "212",
+  "nombrePais": "Dominica",
+  "capitalPais": "Roseau",
+  "region": "Americas",
+  "poblacion": 71991,
+  "latitud": 15.41666666,
+  "longitud": -61.33333333
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee38d"
+  },
+  "codigoPais": "214",
+  "nombrePais": "Dominican Republic",
+  "capitalPais": "Santo Domingo",
+  "region": "Americas",
+  "poblacion": 10847904,
+  "latitud": 19,
+  "longitud": -70.66666666
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee38e"
+  },
+  "codigoPais": "308",
+  "nombrePais": "Grenada",
+  "capitalPais": "St. George's",
+  "region": "Americas",
+  "poblacion": 112519,
+  "latitud": 12.11666666,
+  "longitud": -61.66666666
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee38f"
+  },
+  "codigoPais": "316",
+  "nombrePais": "Guam",
+  "capitalPais": "Hagåtña",
+  "region": "Oceania",
+  "poblacion": 168783,
+  "latitud": 13.46666666,
+  "longitud": 144.78333333
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee390"
+  },
+  "codigoPais": "388",
+  "nombrePais": "Jamaica",
+  "capitalPais": "Kingston",
+  "region": "Americas",
+  "poblacion": 2961161,
+  "latitud": 18.25,
+  "longitud": -77.5
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee391"
+  },
+  "codigoPais": "500",
+  "nombrePais": "Montserrat",
+  "capitalPais": "Plymouth",
+  "region": "Americas",
+  "poblacion": 4922,
+  "latitud": 16.75,
+  "longitud": -62.2
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee392"
+  },
+  "codigoPais": "580",
+  "nombrePais": "Northern Mariana Islands",
+  "capitalPais": "Saipan",
+  "region": "Oceania",
+  "poblacion": 57557,
+  "latitud": 15.2,
+  "longitud": 145.75
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee393"
+  },
+  "codigoPais": "630",
+  "nombrePais": "Puerto Rico",
+  "capitalPais": "San Juan",
+  "region": "Americas",
+  "poblacion": 3194034,
+  "latitud": 18.25,
+  "longitud": -66.5
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee394"
+  },
+  "codigoPais": "659",
+  "nombrePais": "Saint Kitts and Nevis",
+  "capitalPais": "Basseterre",
+  "region": "Americas",
+  "poblacion": 53192,
+  "latitud": 17.33333333,
+  "longitud": -62.75
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee395"
+  },
+  "codigoPais": "662",
+  "nombrePais": "Saint Lucia",
+  "capitalPais": "Castries",
+  "region": "Americas",
+  "poblacion": 183629,
+  "latitud": 13.88333333,
+  "longitud": -60.96666666
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee396"
+  },
+  "codigoPais": "670",
+  "nombrePais": "Saint Vincent and the Grenadines",
+  "capitalPais": "Kingstown",
+  "region": "Americas",
+  "poblacion": 110947,
+  "latitud": 13.25,
+  "longitud": -61.2
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee397"
+  },
+  "codigoPais": "534",
+  "nombrePais": "Sint Maarten (Dutch part)",
+  "capitalPais": "Philipsburg",
+  "region": "Americas",
+  "poblacion": 40812,
+  "latitud": 18.033333,
+  "longitud": -63.05
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee398"
+  },
+  "codigoPais": "780",
+  "nombrePais": "Trinidad and Tobago",
+  "capitalPais": "Port of Spain",
+  "region": "Americas",
+  "poblacion": 1399491,
+  "latitud": 11,
+  "longitud": -61
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee399"
+  },
+  "codigoPais": "796",
+  "nombrePais": "Turks and Caicos Islands",
+  "capitalPais": "Cockburn Town",
+  "region": "Americas",
+  "poblacion": 38718,
+  "latitud": 21.75,
+  "longitud": -71.58333333
+},{
+  "_id": {
+    "$oid": "642f0633a60a69f4225ee39a"
+  },
+  "codigoPais": "840",
+  "nombrePais": "United States of America",
+  "capitalPais": "Washington, D.C.",
+  "region": "Americas",
+  "poblacion": 329484123,
+  "latitud": 38,
+  "longitud": -97
+},{
+  "_id": {
+    "$oid": "642f0639a60a69f4225ee39b"
+  },
+  "codigoPais": "643",
+  "nombrePais": "Russian Federation",
+  "capitalPais": "Moscow",
+  "region": "Europe",
+  "poblacion": 144104080,
+  "latitud": 60,
+  "longitud": 100
+},{
+  "_id": {
+    "$oid": "642f0646a60a69f4225ee39c"
+  },
+  "codigoPais": "818",
+  "nombrePais": "Egypt",
+  "capitalPais": "Cairo",
+  "region": "Africa",
+  "poblacion": 102334403,
+  "latitud": 27,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f064aa60a69f4225ee39d"
+  },
+  "codigoPais": "710",
+  "nombrePais": "South Africa",
+  "capitalPais": "Pretoria",
+  "region": "Africa",
+  "poblacion": 59308690,
+  "latitud": -29,
+  "longitud": 24
+},{
+  "_id": {
+    "$oid": "642f064ca60a69f4225ee39e"
+  },
+  "codigoPais": "300",
+  "nombrePais": "Greece",
+  "capitalPais": "Athens",
+  "region": "Europe",
+  "poblacion": 10715549,
+  "latitud": 39,
+  "longitud": 22
+},{
+  "_id": {
+    "$oid": "642f064da60a69f4225ee39f"
+  },
+  "codigoPais": "528",
+  "nombrePais": "Netherlands",
+  "capitalPais": "Amsterdam",
+  "region": "Europe",
+  "poblacion": 17441139,
+  "latitud": 52.5,
+  "longitud": 5.75
+},{
+  "_id": {
+    "$oid": "642f064da60a69f4225ee3a0"
+  },
+  "codigoPais": "056",
+  "nombrePais": "Belgium",
+  "capitalPais": "Brussels",
+  "region": "Europe",
+  "poblacion": 11555997,
+  "latitud": 50.83333333,
+  "longitud": 4
+},{
+  "_id": {
+    "$oid": "642f064ea60a69f4225ee3a1"
+  },
+  "codigoPais": "250",
+  "nombrePais": "France",
+  "capitalPais": "Paris",
+  "region": "Europe",
+  "poblacion": 67391582,
+  "latitud": 46,
+  "longitud": 2
+},{
+  "_id": {
+    "$oid": "642f0651a60a69f4225ee3a2"
+  },
+  "codigoPais": "724",
+  "nombrePais": "Spain",
+  "capitalPais": "Madrid",
+  "region": "Europe",
+  "poblacion": 47351567,
+  "latitud": 40,
+  "longitud": -4
+},{
+  "_id": {
+    "$oid": "642f0653a60a69f4225ee3a3"
+  },
+  "codigoPais": "348",
+  "nombrePais": "Hungary",
+  "capitalPais": "Budapest",
+  "region": "Europe",
+  "poblacion": 9749763,
+  "latitud": 47,
+  "longitud": 20
+},{
+  "_id": {
+    "$oid": "642f0656a60a69f4225ee3a4"
+  },
+  "codigoPais": "380",
+  "nombrePais": "Italy",
+  "capitalPais": "Rome",
+  "region": "Europe",
+  "poblacion": 59554023,
+  "latitud": 42.83333333,
+  "longitud": 12.83333333
+},{
+  "_id": {
+    "$oid": "642f0657a60a69f4225ee3a5"
+  },
+  "codigoPais": "642",
+  "nombrePais": "Romania",
+  "capitalPais": "Bucharest",
+  "region": "Europe",
+  "poblacion": 19286123,
+  "latitud": 46,
+  "longitud": 25
+},{
+  "_id": {
+    "$oid": "642f0658a60a69f4225ee3a6"
+  },
+  "codigoPais": "756",
+  "nombrePais": "Switzerland",
+  "capitalPais": "Bern",
+  "region": "Europe",
+  "poblacion": 8636896,
+  "latitud": 47,
+  "longitud": 8
+},{
+  "_id": {
+    "$oid": "642f065aa60a69f4225ee3a7"
+  },
+  "codigoPais": "040",
+  "nombrePais": "Austria",
+  "capitalPais": "Vienna",
+  "region": "Europe",
+  "poblacion": 8917205,
+  "latitud": 47.33333333,
+  "longitud": 13.33333333
+},{
+  "_id": {
+    "$oid": "642f065ba60a69f4225ee3a8"
+  },
+  "codigoPais": "831",
+  "nombrePais": "Guernsey",
+  "capitalPais": "St. Peter Port",
+  "region": "Europe",
+  "poblacion": 62999,
+  "latitud": 49.46666666,
+  "longitud": -2.58333333
+},{
+  "_id": {
+    "$oid": "642f065ba60a69f4225ee3a9"
+  },
+  "codigoPais": "833",
+  "nombrePais": "Isle of Man",
+  "capitalPais": "Douglas",
+  "region": "Europe",
+  "poblacion": 85032,
+  "latitud": 54.25,
+  "longitud": -4.5
+},{
+  "_id": {
+    "$oid": "642f065ba60a69f4225ee3aa"
+  },
+  "codigoPais": "832",
+  "nombrePais": "Jersey",
+  "capitalPais": "Saint Helier",
+  "region": "Europe",
+  "poblacion": 100800,
+  "latitud": 49.25,
+  "longitud": -2.16666666
+},{
+  "_id": {
+    "$oid": "642f065ba60a69f4225ee3ab"
+  },
+  "codigoPais": "826",
+  "nombrePais": "United Kingdom of Great Britain and Northern Ireland",
+  "capitalPais": "London",
+  "region": "Europe",
+  "poblacion": 67215293,
+  "latitud": 54,
+  "longitud": -2
+},{
+  "_id": {
+    "$oid": "642f065da60a69f4225ee3ac"
+  },
+  "codigoPais": "208",
+  "nombrePais": "Denmark",
+  "capitalPais": "Copenhagen",
+  "region": "Europe",
+  "poblacion": 5831404,
+  "latitud": 56,
+  "longitud": 10
+},{
+  "_id": {
+    "$oid": "642f065ea60a69f4225ee3ad"
+  },
+  "codigoPais": "752",
+  "nombrePais": "Sweden",
+  "capitalPais": "Stockholm",
+  "region": "Europe",
+  "poblacion": 10353442,
+  "latitud": 62,
+  "longitud": 15
+},{
+  "_id": {
+    "$oid": "642f065fa60a69f4225ee3ae"
+  },
+  "codigoPais": "074",
+  "nombrePais": "Bouvet Island",
+  "capitalPais": null,
+  "region": "Antarctic Ocean",
+  "poblacion": 0,
+  "latitud": -54.43333333,
+  "longitud": 3.4
+},{
+  "_id": {
+    "$oid": "642f065fa60a69f4225ee3af"
+  },
+  "codigoPais": "578",
+  "nombrePais": "Norway",
+  "capitalPais": "Oslo",
+  "region": "Europe",
+  "poblacion": 5379475,
+  "latitud": 62,
+  "longitud": 10
+},{
+  "_id": {
+    "$oid": "642f065fa60a69f4225ee3b0"
+  },
+  "codigoPais": "744",
+  "nombrePais": "Svalbard and Jan Mayen",
+  "capitalPais": "Longyearbyen",
+  "region": "Europe",
+  "poblacion": 2562,
+  "latitud": 78,
+  "longitud": 20
+},{
+  "_id": {
+    "$oid": "642f065fa60a69f4225ee3b1"
+  },
+  "codigoPais": "616",
+  "nombrePais": "Poland",
+  "capitalPais": "Warsaw",
+  "region": "Europe",
+  "poblacion": 37950802,
+  "latitud": 52,
+  "longitud": 20
+},{
+  "_id": {
+    "$oid": "642f0660a60a69f4225ee3b2"
+  },
+  "codigoPais": "276",
+  "nombrePais": "Germany",
+  "capitalPais": "Berlin",
+  "region": "Europe",
+  "poblacion": 83240525,
+  "latitud": 51,
+  "longitud": 9
+},{
+  "_id": {
+    "$oid": "642f0662a60a69f4225ee3b3"
+  },
+  "codigoPais": "604",
+  "nombrePais": "Peru",
+  "capitalPais": "Lima",
+  "region": "Americas",
+  "poblacion": 32971846,
+  "latitud": -10,
+  "longitud": -76
+},{
+  "_id": {
+    "$oid": "642f0662a60a69f4225ee3b4"
+  },
+  "codigoPais": "484",
+  "nombrePais": "Mexico",
+  "capitalPais": "Mexico City",
+  "region": "Americas",
+  "poblacion": 128932753,
+  "latitud": 23,
+  "longitud": -102
+},{
+  "_id": {
+    "$oid": "642f0665a60a69f4225ee3b5"
+  },
+  "codigoPais": "192",
+  "nombrePais": "Cuba",
+  "capitalPais": "Havana",
+  "region": "Americas",
+  "poblacion": 11326616,
+  "latitud": 21.5,
+  "longitud": -80
+},{
+  "_id": {
+    "$oid": "642f0666a60a69f4225ee3b6"
+  },
+  "codigoPais": "032",
+  "nombrePais": "Argentina",
+  "capitalPais": "Buenos Aires",
+  "region": "Americas",
+  "poblacion": 45376763,
+  "latitud": -34,
+  "longitud": -64
+},{
+  "_id": {
+    "$oid": "642f0667a60a69f4225ee3b7"
+  },
+  "codigoPais": "076",
+  "nombrePais": "Brazil",
+  "capitalPais": "Brasília",
+  "region": "Americas",
+  "poblacion": 212559409,
+  "latitud": -10,
+  "longitud": -55
+},{
+  "_id": {
+    "$oid": "642f0669a60a69f4225ee3b8"
+  },
+  "codigoPais": "152",
+  "nombrePais": "Chile",
+  "capitalPais": "Santiago",
+  "region": "Americas",
+  "poblacion": 19116209,
+  "latitud": -30,
+  "longitud": -71
+},{
+  "_id": {
+    "$oid": "642f0669a60a69f4225ee3b9"
+  },
+  "codigoPais": "170",
+  "nombrePais": "Colombia",
+  "capitalPais": "Bogotá",
+  "region": "Americas",
+  "poblacion": 50882884,
+  "latitud": 4,
+  "longitud": -72
+},{
+  "_id": {
+    "$oid": "642f066aa60a69f4225ee3ba"
+  },
+  "codigoPais": "862",
+  "nombrePais": "Venezuela (Bolivarian Republic of)",
+  "capitalPais": "Caracas",
+  "region": "Americas",
+  "poblacion": 28435943,
+  "latitud": 8,
+  "longitud": -66
+},{
+  "_id": {
+    "$oid": "642f066da60a69f4225ee3bb"
+  },
+  "codigoPais": "458",
+  "nombrePais": "Malaysia",
+  "capitalPais": "Kuala Lumpur",
+  "region": "Asia",
+  "poblacion": 32365998,
+  "latitud": 2.5,
+  "longitud": 112.5
+},{
+  "_id": {
+    "$oid": "642f0671a60a69f4225ee3bc"
+  },
+  "codigoPais": "036",
+  "nombrePais": "Australia",
+  "capitalPais": "Canberra",
+  "region": "Oceania",
+  "poblacion": 25687041,
+  "latitud": -27,
+  "longitud": 133
+},{
+  "_id": {
+    "$oid": "642f0671a60a69f4225ee3bd"
+  },
+  "codigoPais": "162",
+  "nombrePais": "Christmas Island",
+  "capitalPais": "Flying Fish Cove",
+  "region": "Oceania",
+  "poblacion": 2072,
+  "latitud": -10.5,
+  "longitud": 105.66666666
+},{
+  "_id": {
+    "$oid": "642f0671a60a69f4225ee3be"
+  },
+  "codigoPais": "166",
+  "nombrePais": "Cocos (Keeling) Islands",
+  "capitalPais": "West Island",
+  "region": "Oceania",
+  "poblacion": 550,
+  "latitud": -12.5,
+  "longitud": 96.83333333
+},{
+  "_id": {
+    "$oid": "642f0671a60a69f4225ee3bf"
+  },
+  "codigoPais": "360",
+  "nombrePais": "Indonesia",
+  "capitalPais": "Jakarta",
+  "region": "Asia",
+  "poblacion": 273523621,
+  "latitud": -5,
+  "longitud": 120
+},{
+  "_id": {
+    "$oid": "642f0672a60a69f4225ee3c0"
+  },
+  "codigoPais": "608",
+  "nombrePais": "Philippines",
+  "capitalPais": "Manila",
+  "region": "Asia",
+  "poblacion": 109581085,
+  "latitud": 13,
+  "longitud": 122
+},{
+  "_id": {
+    "$oid": "642f0673a60a69f4225ee3c1"
+  },
+  "codigoPais": "554",
+  "nombrePais": "New Zealand",
+  "capitalPais": "Wellington",
+  "region": "Oceania",
+  "poblacion": 5084300,
+  "latitud": -41,
+  "longitud": 174
+},{
+  "_id": {
+    "$oid": "642f0673a60a69f4225ee3c2"
+  },
+  "codigoPais": "612",
+  "nombrePais": "Pitcairn",
+  "capitalPais": "Adamstown",
+  "region": "Oceania",
+  "poblacion": 56,
+  "latitud": -25.06666666,
+  "longitud": -130.1
+},{
+  "_id": {
+    "$oid": "642f0674a60a69f4225ee3c3"
+  },
+  "codigoPais": "702",
+  "nombrePais": "Singapore",
+  "capitalPais": "Singapore",
+  "region": "Asia",
+  "poblacion": 5685807,
+  "latitud": 1.36666666,
+  "longitud": 103.8
+},{
+  "_id": {
+    "$oid": "642f0674a60a69f4225ee3c4"
+  },
+  "codigoPais": "764",
+  "nombrePais": "Thailand",
+  "capitalPais": "Bangkok",
+  "region": "Asia",
+  "poblacion": 69799978,
+  "latitud": 15,
+  "longitud": 100
+},{
+  "_id": {
+    "$oid": "642f067fa60a69f4225ee3c5"
+  },
+  "codigoPais": "398",
+  "nombrePais": "Kazakhstan",
+  "capitalPais": "Nur-Sultan",
+  "region": "Asia",
+  "poblacion": 18754440,
+  "latitud": 48,
+  "longitud": 68
+},{
+  "_id": {
+    "$oid": "642f0680a60a69f4225ee3c6"
+  },
+  "codigoPais": "398",
+  "nombrePais": "Kazakhstan",
+  "capitalPais": "Nur-Sultan",
+  "region": "Asia",
+  "poblacion": 18754440,
+  "latitud": 48,
+  "longitud": 68
+},{
+  "_id": {
+    "$oid": "642f0683a60a69f4225ee3c7"
+  },
+  "codigoPais": "392",
+  "nombrePais": "Japan",
+  "capitalPais": "Tokyo",
+  "region": "Asia",
+  "poblacion": 125836021,
+  "latitud": 36,
+  "longitud": 138
+},{
+  "_id": {
+    "$oid": "642f0684a60a69f4225ee3c8"
+  },
+  "codigoPais": "410",
+  "nombrePais": "Korea (Republic of)",
+  "capitalPais": "Seoul",
+  "region": "Asia",
+  "poblacion": 51780579,
+  "latitud": 37,
+  "longitud": 127.5
+},{
+  "_id": {
+    "$oid": "642f0686a60a69f4225ee3c9"
+  },
+  "codigoPais": "704",
+  "nombrePais": "Vietnam",
+  "capitalPais": "Hanoi",
+  "region": "Asia",
+  "poblacion": 97338583,
+  "latitud": 16.16666666,
+  "longitud": 107.83333333
+},{
+  "_id": {
+    "$oid": "642f0688a60a69f4225ee3ca"
+  },
+  "codigoPais": "156",
+  "nombrePais": "China",
+  "capitalPais": "Beijing",
+  "region": "Asia",
+  "poblacion": 1402112000,
+  "latitud": 35,
+  "longitud": 105
+},{
+  "_id": {
+    "$oid": "642f068ba60a69f4225ee3cb"
+  },
+  "codigoPais": "792",
+  "nombrePais": "Turkey",
+  "capitalPais": "Ankara",
+  "region": "Asia",
+  "poblacion": 84339067,
+  "latitud": 39,
+  "longitud": 35
+},{
+  "_id": {
+    "$oid": "642f0691a60a69f4225ee3cc"
+  },
+  "codigoPais": "356",
+  "nombrePais": "India",
+  "capitalPais": "New Delhi",
+  "region": "Asia",
+  "poblacion": 1380004385,
+  "latitud": 20,
+  "longitud": 77
+},{
+  "_id": {
+    "$oid": "642f0691a60a69f4225ee3cd"
+  },
+  "codigoPais": "586",
+  "nombrePais": "Pakistan",
+  "capitalPais": "Islamabad",
+  "region": "Asia",
+  "poblacion": 220892331,
+  "latitud": 30,
+  "longitud": 70
+},{
+  "_id": {
+    "$oid": "642f0692a60a69f4225ee3ce"
+  },
+  "codigoPais": "004",
+  "nombrePais": "Afghanistan",
+  "capitalPais": "Kabul",
+  "region": "Asia",
+  "poblacion": 40218234,
+  "latitud": 33,
+  "longitud": 65
+},{
+  "_id": {
+    "$oid": "642f0693a60a69f4225ee3cf"
+  },
+  "codigoPais": "144",
+  "nombrePais": "Sri Lanka",
+  "capitalPais": "Sri Jayawardenepura Kotte",
+  "region": "Asia",
+  "poblacion": 21919000,
+  "latitud": 7,
+  "longitud": 81
+},{
+  "_id": {
+    "$oid": "642f0695a60a69f4225ee3d0"
+  },
+  "codigoPais": "104",
+  "nombrePais": "Myanmar",
+  "capitalPais": "Naypyidaw",
+  "region": "Asia",
+  "poblacion": 54409794,
+  "latitud": 22,
+  "longitud": 98
+},{
+  "_id": {
+    "$oid": "642f0697a60a69f4225ee3d1"
+  },
+  "codigoPais": "364",
+  "nombrePais": "Iran (Islamic Republic of)",
+  "capitalPais": "Tehran",
+  "region": "Asia",
+  "poblacion": 83992953,
+  "latitud": 32,
+  "longitud": 53
+},{
+  "_id": {
+    "$oid": "642f0700a60a69f4225ee3d2"
+  },
+  "codigoPais": "728",
+  "nombrePais": "South Sudan",
+  "capitalPais": "Juba",
+  "region": "Africa",
+  "poblacion": 11193729,
+  "latitud": 7,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f0701a60a69f4225ee3d3"
+  },
+  "codigoPais": "504",
+  "nombrePais": "Morocco",
+  "capitalPais": "Rabat",
+  "region": "Africa",
+  "poblacion": 36910558,
+  "latitud": 32,
+  "longitud": -5
+},{
+  "_id": {
+    "$oid": "642f0701a60a69f4225ee3d4"
+  },
+  "codigoPais": "732",
+  "nombrePais": "Western Sahara",
+  "capitalPais": "El Aaiún",
+  "region": "Africa",
+  "poblacion": 510713,
+  "latitud": 24.5,
+  "longitud": -13
+},{
+  "_id": {
+    "$oid": "642f0701a60a69f4225ee3d5"
+  },
+  "codigoPais": "012",
+  "nombrePais": "Algeria",
+  "capitalPais": "Algiers",
+  "region": "Africa",
+  "poblacion": 44700000,
+  "latitud": 28,
+  "longitud": 3
+},{
+  "_id": {
+    "$oid": "642f0704a60a69f4225ee3d6"
+  },
+  "codigoPais": "788",
+  "nombrePais": "Tunisia",
+  "capitalPais": "Tunis",
+  "region": "Africa",
+  "poblacion": 11818618,
+  "latitud": 34,
+  "longitud": 9
+},{
+  "_id": {
+    "$oid": "642f0707a60a69f4225ee3d7"
+  },
+  "codigoPais": "434",
+  "nombrePais": "Libya",
+  "capitalPais": "Tripoli",
+  "region": "Africa",
+  "poblacion": 6871287,
+  "latitud": 25,
+  "longitud": 17
+},{
+  "_id": {
+    "$oid": "642f070ba60a69f4225ee3d8"
+  },
+  "codigoPais": "270",
+  "nombrePais": "Gambia",
+  "capitalPais": "Banjul",
+  "region": "Africa",
+  "poblacion": 2416664,
+  "latitud": 13.46666666,
+  "longitud": -16.56666666
+},{
+  "_id": {
+    "$oid": "642f070ba60a69f4225ee3d9"
+  },
+  "codigoPais": "686",
+  "nombrePais": "Senegal",
+  "capitalPais": "Dakar",
+  "region": "Africa",
+  "poblacion": 16743930,
+  "latitud": 14,
+  "longitud": -14
+},{
+  "_id": {
+    "$oid": "642f070ca60a69f4225ee3da"
+  },
+  "codigoPais": "478",
+  "nombrePais": "Mauritania",
+  "capitalPais": "Nouakchott",
+  "region": "Africa",
+  "poblacion": 4649660,
+  "latitud": 20,
+  "longitud": -12
+},{
+  "_id": {
+    "$oid": "642f070ca60a69f4225ee3db"
+  },
+  "codigoPais": "466",
+  "nombrePais": "Mali",
+  "capitalPais": "Bamako",
+  "region": "Africa",
+  "poblacion": 20250834,
+  "latitud": 17,
+  "longitud": -4
+},{
+  "_id": {
+    "$oid": "642f070da60a69f4225ee3dc"
+  },
+  "codigoPais": "324",
+  "nombrePais": "Guinea",
+  "capitalPais": "Conakry",
+  "region": "Africa",
+  "poblacion": 13132792,
+  "latitud": 11,
+  "longitud": -10
+},{
+  "_id": {
+    "$oid": "642f070ea60a69f4225ee3dd"
+  },
+  "codigoPais": "384",
+  "nombrePais": "Ivory Coast",
+  "capitalPais": "Yamoussoukro",
+  "region": "Africa",
+  "poblacion": 26378275,
+  "latitud": 8,
+  "longitud": -5
+},{
+  "_id": {
+    "$oid": "642f070ea60a69f4225ee3de"
+  },
+  "codigoPais": "854",
+  "nombrePais": "Burkina Faso",
+  "capitalPais": "Ouagadougou",
+  "region": "Africa",
+  "poblacion": 20903278,
+  "latitud": 13,
+  "longitud": -2
+},{
+  "_id": {
+    "$oid": "642f070fa60a69f4225ee3df"
+  },
+  "codigoPais": "562",
+  "nombrePais": "Niger",
+  "capitalPais": "Niamey",
+  "region": "Africa",
+  "poblacion": 24206636,
+  "latitud": 16,
+  "longitud": 8
+},{
+  "_id": {
+    "$oid": "642f070fa60a69f4225ee3e0"
+  },
+  "codigoPais": "768",
+  "nombrePais": "Togo",
+  "capitalPais": "Lomé",
+  "region": "Africa",
+  "poblacion": 8278737,
+  "latitud": 8,
+  "longitud": 1.16666666
+},{
+  "_id": {
+    "$oid": "642f0710a60a69f4225ee3e1"
+  },
+  "codigoPais": "204",
+  "nombrePais": "Benin",
+  "capitalPais": "Porto-Novo",
+  "region": "Africa",
+  "poblacion": 12123198,
+  "latitud": 9.5,
+  "longitud": 2.25
+},{
+  "_id": {
+    "$oid": "642f0711a60a69f4225ee3e2"
+  },
+  "codigoPais": "480",
+  "nombrePais": "Mauritius",
+  "capitalPais": "Port Louis",
+  "region": "Africa",
+  "poblacion": 1265740,
+  "latitud": -20.28333333,
+  "longitud": 57.55
+},{
+  "_id": {
+    "$oid": "642f0711a60a69f4225ee3e3"
+  },
+  "codigoPais": "430",
+  "nombrePais": "Liberia",
+  "capitalPais": "Monrovia",
+  "region": "Africa",
+  "poblacion": 5057677,
+  "latitud": 6.5,
+  "longitud": -9.5
+},{
+  "_id": {
+    "$oid": "642f0712a60a69f4225ee3e4"
+  },
+  "codigoPais": "694",
+  "nombrePais": "Sierra Leone",
+  "capitalPais": "Freetown",
+  "region": "Africa",
+  "poblacion": 7976985,
+  "latitud": 8.5,
+  "longitud": -11.5
+},{
+  "_id": {
+    "$oid": "642f0712a60a69f4225ee3e5"
+  },
+  "codigoPais": "288",
+  "nombrePais": "Ghana",
+  "capitalPais": "Accra",
+  "region": "Africa",
+  "poblacion": 31072945,
+  "latitud": 8,
+  "longitud": -2
+},{
+  "_id": {
+    "$oid": "642f0713a60a69f4225ee3e6"
+  },
+  "codigoPais": "566",
+  "nombrePais": "Nigeria",
+  "capitalPais": "Abuja",
+  "region": "Africa",
+  "poblacion": 206139587,
+  "latitud": 10,
+  "longitud": 8
+},{
+  "_id": {
+    "$oid": "642f0713a60a69f4225ee3e7"
+  },
+  "codigoPais": "148",
+  "nombrePais": "Chad",
+  "capitalPais": "N'Djamena",
+  "region": "Africa",
+  "poblacion": 16425859,
+  "latitud": 15,
+  "longitud": 19
+},{
+  "_id": {
+    "$oid": "642f0714a60a69f4225ee3e8"
+  },
+  "codigoPais": "140",
+  "nombrePais": "Central African Republic",
+  "capitalPais": "Bangui",
+  "region": "Africa",
+  "poblacion": 4829764,
+  "latitud": 7,
+  "longitud": 21
+},{
+  "_id": {
+    "$oid": "642f0716a60a69f4225ee3e9"
+  },
+  "codigoPais": "120",
+  "nombrePais": "Cameroon",
+  "capitalPais": "Yaoundé",
+  "region": "Africa",
+  "poblacion": 26545864,
+  "latitud": 6,
+  "longitud": 12
+},{
+  "_id": {
+    "$oid": "642f0716a60a69f4225ee3ea"
+  },
+  "codigoPais": "132",
+  "nombrePais": "Cabo Verde",
+  "capitalPais": "Praia",
+  "region": "Africa",
+  "poblacion": 555988,
+  "latitud": 16,
+  "longitud": -24
+},{
+  "_id": {
+    "$oid": "642f0717a60a69f4225ee3eb"
+  },
+  "codigoPais": "678",
+  "nombrePais": "Sao Tome and Principe",
+  "capitalPais": "São Tomé",
+  "region": "Africa",
+  "poblacion": 219161,
+  "latitud": 1,
+  "longitud": 7
+},{
+  "_id": {
+    "$oid": "642f0717a60a69f4225ee3ec"
+  },
+  "codigoPais": "226",
+  "nombrePais": "Equatorial Guinea",
+  "capitalPais": "Malabo",
+  "region": "Africa",
+  "poblacion": 1402985,
+  "latitud": 2,
+  "longitud": 10
+},{
+  "_id": {
+    "$oid": "642f0718a60a69f4225ee3ed"
+  },
+  "codigoPais": "266",
+  "nombrePais": "Gabon",
+  "capitalPais": "Libreville",
+  "region": "Africa",
+  "poblacion": 2225728,
+  "latitud": -1,
+  "longitud": 11.75
+},{
+  "_id": {
+    "$oid": "642f071ba60a69f4225ee3ee"
+  },
+  "codigoPais": "178",
+  "nombrePais": "Congo",
+  "capitalPais": "Brazzaville",
+  "region": "Africa",
+  "poblacion": 5518092,
+  "latitud": -1,
+  "longitud": 15
+},{
+  "_id": {
+    "$oid": "642f071ca60a69f4225ee3ef"
+  },
+  "codigoPais": "180",
+  "nombrePais": "Congo (Democratic Republic of the)",
+  "capitalPais": "Kinshasa",
+  "region": "Africa",
+  "poblacion": 89561404,
+  "latitud": 0,
+  "longitud": 25
+},{
+  "_id": {
+    "$oid": "642f071ca60a69f4225ee3f0"
+  },
+  "codigoPais": "024",
+  "nombrePais": "Angola",
+  "capitalPais": "Luanda",
+  "region": "Africa",
+  "poblacion": 32866268,
+  "latitud": -12.5,
+  "longitud": 18.5
+},{
+  "_id": {
+    "$oid": "642f071da60a69f4225ee3f1"
+  },
+  "codigoPais": "624",
+  "nombrePais": "Guinea-Bissau",
+  "capitalPais": "Bissau",
+  "region": "Africa",
+  "poblacion": 1967998,
+  "latitud": 12,
+  "longitud": -15
+},{
+  "_id": {
+    "$oid": "642f071ea60a69f4225ee3f2"
+  },
+  "codigoPais": "086",
+  "nombrePais": "British Indian Ocean Territory",
+  "capitalPais": "Diego Garcia",
+  "region": "Africa",
+  "poblacion": 3000,
+  "latitud": -6,
+  "longitud": 71.5
+},{
+  "_id": {
+    "$oid": "642f071fa60a69f4225ee3f3"
+  },
+  "codigoPais": "690",
+  "nombrePais": "Seychelles",
+  "capitalPais": "Victoria",
+  "region": "Africa",
+  "poblacion": 98462,
+  "latitud": -4.58333333,
+  "longitud": 55.66666666
+},{
+  "_id": {
+    "$oid": "642f071fa60a69f4225ee3f4"
+  },
+  "codigoPais": "729",
+  "nombrePais": "Sudan",
+  "capitalPais": "Khartoum",
+  "region": "Africa",
+  "poblacion": 43849269,
+  "latitud": 15,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f0720a60a69f4225ee3f5"
+  },
+  "codigoPais": "646",
+  "nombrePais": "Rwanda",
+  "capitalPais": "Kigali",
+  "region": "Africa",
+  "poblacion": 12952209,
+  "latitud": -2,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f0720a60a69f4225ee3f6"
+  },
+  "codigoPais": "231",
+  "nombrePais": "Ethiopia",
+  "capitalPais": "Addis Ababa",
+  "region": "Africa",
+  "poblacion": 114963583,
+  "latitud": 8,
+  "longitud": 38
+},{
+  "_id": {
+    "$oid": "642f0721a60a69f4225ee3f7"
+  },
+  "codigoPais": "706",
+  "nombrePais": "Somalia",
+  "capitalPais": "Mogadishu",
+  "region": "Africa",
+  "poblacion": 15893219,
+  "latitud": 10,
+  "longitud": 49
+},{
+  "_id": {
+    "$oid": "642f0722a60a69f4225ee3f8"
+  },
+  "codigoPais": "262",
+  "nombrePais": "Djibouti",
+  "capitalPais": "Djibouti",
+  "region": "Africa",
+  "poblacion": 988002,
+  "latitud": 11.5,
+  "longitud": 43
+},{
+  "_id": {
+    "$oid": "642f0722a60a69f4225ee3f9"
+  },
+  "codigoPais": "404",
+  "nombrePais": "Kenya",
+  "capitalPais": "Nairobi",
+  "region": "Africa",
+  "poblacion": 53771300,
+  "latitud": 1,
+  "longitud": 38
+},{
+  "_id": {
+    "$oid": "642f0724a60a69f4225ee3fa"
+  },
+  "codigoPais": "834",
+  "nombrePais": "Tanzania, United Republic of",
+  "capitalPais": "Dodoma",
+  "region": "Africa",
+  "poblacion": 59734213,
+  "latitud": -6,
+  "longitud": 35
+},{
+  "_id": {
+    "$oid": "642f0725a60a69f4225ee3fb"
+  },
+  "codigoPais": "800",
+  "nombrePais": "Uganda",
+  "capitalPais": "Kampala",
+  "region": "Africa",
+  "poblacion": 45741000,
+  "latitud": 1,
+  "longitud": 32
+},{
+  "_id": {
+    "$oid": "642f0726a60a69f4225ee3fc"
+  },
+  "codigoPais": "108",
+  "nombrePais": "Burundi",
+  "capitalPais": "Gitega",
+  "region": "Africa",
+  "poblacion": 11890781,
+  "latitud": -3.5,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f0727a60a69f4225ee3fd"
+  },
+  "codigoPais": "508",
+  "nombrePais": "Mozambique",
+  "capitalPais": "Maputo",
+  "region": "Africa",
+  "poblacion": 31255435,
+  "latitud": -18.25,
+  "longitud": 35
+},{
+  "_id": {
+    "$oid": "642f0728a60a69f4225ee3fe"
+  },
+  "codigoPais": "894",
+  "nombrePais": "Zambia",
+  "capitalPais": "Lusaka",
+  "region": "Africa",
+  "poblacion": 18383956,
+  "latitud": -15,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f0729a60a69f4225ee3ff"
+  },
+  "codigoPais": "450",
+  "nombrePais": "Madagascar",
+  "capitalPais": "Antananarivo",
+  "region": "Africa",
+  "poblacion": 27691019,
+  "latitud": -20,
+  "longitud": 47
+},{
+  "_id": {
+    "$oid": "642f072aa60a69f4225ee400"
+  },
+  "codigoPais": "260",
+  "nombrePais": "French Southern Territories",
+  "capitalPais": "Port-aux-Français",
+  "region": "Africa",
+  "poblacion": 140,
+  "latitud": -49.25,
+  "longitud": 69.167
+},{
+  "_id": {
+    "$oid": "642f072aa60a69f4225ee401"
+  },
+  "codigoPais": "175",
+  "nombrePais": "Mayotte",
+  "capitalPais": "Mamoudzou",
+  "region": "Africa",
+  "poblacion": 226915,
+  "latitud": -12.83333333,
+  "longitud": 45.16666666
+},{
+  "_id": {
+    "$oid": "642f072aa60a69f4225ee402"
+  },
+  "codigoPais": "638",
+  "nombrePais": "Réunion",
+  "capitalPais": "Saint-Denis",
+  "region": "Africa",
+  "poblacion": 840974,
+  "latitud": -21.15,
+  "longitud": 55.5
+},{
+  "_id": {
+    "$oid": "642f072ba60a69f4225ee403"
+  },
+  "codigoPais": "716",
+  "nombrePais": "Zimbabwe",
+  "capitalPais": "Harare",
+  "region": "Africa",
+  "poblacion": 14862927,
+  "latitud": -20,
+  "longitud": 30
+},{
+  "_id": {
+    "$oid": "642f072ba60a69f4225ee404"
+  },
+  "codigoPais": "516",
+  "nombrePais": "Namibia",
+  "capitalPais": "Windhoek",
+  "region": "Africa",
+  "poblacion": 2540916,
+  "latitud": -22,
+  "longitud": 17
+},{
+  "_id": {
+    "$oid": "642f072ca60a69f4225ee405"
+  },
+  "codigoPais": "454",
+  "nombrePais": "Malawi",
+  "capitalPais": "Lilongwe",
+  "region": "Africa",
+  "poblacion": 19129955,
+  "latitud": -13.5,
+  "longitud": 34
+},{
+  "_id": {
+    "$oid": "642f072da60a69f4225ee406"
+  },
+  "codigoPais": "426",
+  "nombrePais": "Lesotho",
+  "capitalPais": "Maseru",
+  "region": "Africa",
+  "poblacion": 2142252,
+  "latitud": -29.5,
+  "longitud": 28.5
+},{
+  "_id": {
+    "$oid": "642f072ea60a69f4225ee407"
+  },
+  "codigoPais": "072",
+  "nombrePais": "Botswana",
+  "capitalPais": "Gaborone",
+  "region": "Africa",
+  "poblacion": 2351625,
+  "latitud": -22,
+  "longitud": 24
+},{
+  "_id": {
+    "$oid": "642f072fa60a69f4225ee408"
+  },
+  "codigoPais": "748",
+  "nombrePais": "Swaziland",
+  "capitalPais": "Mbabane",
+  "region": "Africa",
+  "poblacion": 1160164,
+  "latitud": -26.5,
+  "longitud": 31.5
+},{
+  "_id": {
+    "$oid": "642f072fa60a69f4225ee409"
+  },
+  "codigoPais": "174",
+  "nombrePais": "Comoros",
+  "capitalPais": "Moroni",
+  "region": "Africa",
+  "poblacion": 869595,
+  "latitud": -12.16666666,
+  "longitud": 44.25
+},{
+  "_id": {
+    "$oid": "642f0742a60a69f4225ee40a"
+  },
+  "codigoPais": "654",
+  "nombrePais": "Saint Helena, Ascension and Tristan da Cunha",
+  "capitalPais": "Jamestown",
+  "region": "Africa",
+  "poblacion": 4255,
+  "latitud": -15.95,
+  "longitud": -5.7
+},{
+  "_id": {
+    "$oid": "642f0743a60a69f4225ee40b"
+  },
+  "codigoPais": "232",
+  "nombrePais": "Eritrea",
+  "capitalPais": "Asmara",
+  "region": "Africa",
+  "poblacion": 5352000,
+  "latitud": 15,
+  "longitud": 39
+},{
+  "_id": {
+    "$oid": "642f0747a60a69f4225ee40c"
+  },
+  "codigoPais": "533",
+  "nombrePais": "Aruba",
+  "capitalPais": "Oranjestad",
+  "region": "Americas",
+  "poblacion": 106766,
+  "latitud": 12.5,
+  "longitud": -69.96666666
+},{
+  "_id": {
+    "$oid": "642f0748a60a69f4225ee40d"
+  },
+  "codigoPais": "234",
+  "nombrePais": "Faroe Islands",
+  "capitalPais": "Tórshavn",
+  "region": "Europe",
+  "poblacion": 48865,
+  "latitud": 62,
+  "longitud": -7
+},{
+  "_id": {
+    "$oid": "642f0748a60a69f4225ee40e"
+  },
+  "codigoPais": "304",
+  "nombrePais": "Greenland",
+  "capitalPais": "Nuuk",
+  "region": "Americas",
+  "poblacion": 56367,
+  "latitud": 72,
+  "longitud": -40
+}]

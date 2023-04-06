@@ -1,0 +1,41 @@
+**COMPASS**
+Desde compass dentro de la collection que se desea exportar, puede seleccionarse el boton EXPORT COLLECTION, alli nos permitira decidir 
+si queremos exportarla con filtros o sin filtros, y podremos seleccionar que campos exportar de cada documento.
+
+**CONSOLA**
+
+Para realizar un backup de la base de datos de MongoDB, se puede utilizar el comando mongodump en la línea de comandos.
+ Este comando crea una copia de todos los datos en una base de datos MongoDB en un archivo BSON o JSON.
+
+Para realizar un backup de la base de datos "países_", se puede seguir los siguientes pasos:
+
+Abrir una terminal o consola de comandos.
+
+Navegar hasta el directorio donde se desea guardar el backup.
+
+Ejecutar el comando mongodump seguido del nombre de la base de datos:
+
+mongodump --db países_
+Esto creará una carpeta llamada dump en el directorio actual, y dentro de ella se encontrarán las copias de todas las colecciones 
+de la base de datos "país".
+
+Si se desea hacer un backup de una colección específica en lugar de toda la base de datos, se puede utilizar el parámetro 
+--collection seguido del nombre de la colección:
+
+mongodump --db países_ --collection nombreColeccion
+Esto creará una copia solo de la colección "nombreColeccion" dentro de la carpeta dump.
+
+Esperar a que el proceso termine. Dependiendo del tamaño de la base de datos, puede tomar varios minutos o incluso horas.
+
+Verificar que se haya creado correctamente la copia de seguridad.
+
+Para restaurar un backup de la base de datos, se puede utilizar el comando mongorestore seguido de la ruta al directorio 
+donde se encuentra el backup:
+
+mongorestore /ruta/al/backup
+Esto restaurará todas las colecciones de la base de datos en la ubicación especificada. Si se desea restaurar solo una colección específica,
+ se puede utilizar el parámetro --collection seguido del nombre de la colección:
+
+mongorestore /ruta/al/backup --collection nombreColeccion
+
+Esto restaurará solo la colección "nombreColeccion" en la ubicación especificada.

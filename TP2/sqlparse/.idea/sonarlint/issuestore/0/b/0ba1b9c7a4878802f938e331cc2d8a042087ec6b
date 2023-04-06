@@ -1,0 +1,28 @@
+
+i
+java:S11923"GDefine a constant instead of duplicating this literal "latlng" 4 times.(ŒÔ¥¾ûÿÿÿÿ8‘Û ©ó0
+
+java:S1488P"bImmediately return this expression instead of assigning it to the temporary variable "jsonString".(ûÎÔ·8ïŞŒ©ó0
+n
+java:S1104"RMake paises a static final constant or non-public and provide accessors if needed.(ÔÎ¦8‘ğ•©ó0
+H
+java:S1444",Make this "public static paises" field final(ÔÎ¦8‘ğ•©ó0
+9
+java:S2386"Make this member "protected".(ÔÎ¦8İº•©ó0
+
+java:S1149I"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8„ßŒ©ó0
+]	java:S107j"<Method has 8 parameters, which is greater than 7 authorized.(ŸŠ—ğıÿÿÿÿ8Ç±©ó0
+S
+java:S6437"6Revoke and change this password, as it is compromised.(œ®¸ƒ8ßî†©ó0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¢äÑÎüÿÿÿÿ8ßŒ©ó0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(„ğŠé8ÑŞ ©ó0
+J
+java:S1481,"(Remove this unused "row" local variable.(Õêõ€ùÿÿÿÿ8ÔŞ ©ó0
+s
+java:S3457:"Q%n should be used in place of \n to produce the platform-specific line separator.(‘¨›ãıÿÿÿÿ8Ë„ˆ©ó0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(‘¨›ãıÿÿÿÿ8Í„ˆ©ó0
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(šÇñ†ÿÿÿÿÿ8İŞ ©ó0
+U
+java:S1874‡"2Remove this use of "JsonParser"; it is deprecated.(˜‡ü¹øÿÿÿÿ8İ±©ó0
+K
+java:S1874ˆ"-Remove this use of "parse"; it is deprecated.(áÁö¼8İ±©ó0

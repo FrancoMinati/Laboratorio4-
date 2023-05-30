@@ -1,4 +1,4 @@
-package com.octavio.laboratoriotp5.entity;
+package com.franco.laboratoriotp5.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

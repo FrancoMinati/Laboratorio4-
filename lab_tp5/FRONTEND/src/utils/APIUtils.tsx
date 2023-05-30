@@ -30,13 +30,13 @@ export const getInstrumento = async ({ Id, setter }) => {
     setter(res.data);
   });
 };
-export const getInstrumentos = ({ setter }) => {
-  axios
-    .get(`http://localhost:8080/instrumentos`)
-    .then((res) => setter(res.data))
-    .catch(() =>
-      axios.post("http://localhost:8080/instrumentos/save-list", {
-        productsData,
-      })
-    );
+export const getInstrumentos = async ({ setter }) => {
+  const response=await axios.get(`http://localhost:8080/instrumentos`)
+  setter(response.data);
+  return response;
 };
+
+export const saveInstrumentos = async ()=>{
+  const response=await axios.post(`http://localhost:8080/instrumentos/save-list`,productsData)
+  return response.data;
+}

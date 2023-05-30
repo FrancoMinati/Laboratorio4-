@@ -1,10 +1,9 @@
-package com.octavio.laboratoriotp5.controller;
+package com.franco.laboratoriotp5.controller;
 
-import com.octavio.laboratoriotp5.entity.Instrumento;
-import com.octavio.laboratoriotp5.service.InstrumentoService;
+import com.franco.laboratoriotp5.entity.Instrumento;
+import com.franco.laboratoriotp5.service.InstrumentoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
-import org.springframework.core.io.UrlResource;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

@@ -1,7 +1,7 @@
-package com.octavio.laboratoriotp5.service;
+package com.franco.laboratoriotp5.service;
 
-import com.octavio.laboratoriotp5.entity.Instrumento;
-import com.octavio.laboratoriotp5.repository.InstrumentoRepository;
+import com.franco.laboratoriotp5.entity.Instrumento;
+import com.franco.laboratoriotp5.repository.InstrumentoRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;

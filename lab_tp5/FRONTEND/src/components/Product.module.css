@@ -147,6 +147,7 @@
   border-radius: 5px;
   transition: ease-in-out 250ms;
   padding: 10px;
+  cursor: pointer;
 }
 
 .btnCarga:hover {

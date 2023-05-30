@@ -1,6 +1,6 @@
-package com.octavio.laboratoriotp5.repository;
+package com.franco.laboratoriotp5.repository;
 
-import com.octavio.laboratoriotp5.entity.Instrumento;
+import com.franco.laboratoriotp5.entity.Instrumento;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

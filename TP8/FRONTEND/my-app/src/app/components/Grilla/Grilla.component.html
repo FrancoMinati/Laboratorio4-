@@ -1,0 +1,104 @@
+<p style="text-align: left; padding-left: 200px" class="d-flex gap-5">
+  <a
+    class="btn btn-danger px-3 mt-5"
+    [href]="'/instrumentos/formulario/0'"
+    role="button"
+    >Agregar instrumento</a
+  >
+  <button
+    class="btn btn-dark px-3 mt-5"
+    role="button"
+    (click)="postListOfInstrumentos()"
+  >
+    Agregar lista predeterminada
+  </button>
+</p>
+
+<div class="container">
+  <div class="row" style="padding-bottom: 20px">
+    <div class="col-3 d-flex gap-3">
+      <label for="" class="fw-bold">Precio Minimo</label>
+      <input
+        type="number"
+        [value]="filter.minPrice"
+        (change)="handleChange($event)"
+        name="minPrice"
+        placeholder="Min price"
+        class="form-control"
+      />
+    </div>
+    <div class="col-3 d-flex gap-3">
+      <label for="" class="fw-bold">Precio Maximo</label>
+      <input
+        type="number"
+        [value]="filter.maxPrice"
+        (change)="handleChange($event)"
+        name="maxPrice"
+        placeholder="Max price"
+        class="form-control"
+      />
+    </div>
+    <div class="col-2 d-flex gap-3">
+      <button class="btn btn-secondary" (click)="filterInstruments()">
+        Filtrar
+      </button>
+      <button class="btn btn-warning" (click)="removeFilter()">
+        Remover Filtro
+      </button>
+    </div>
+  </div>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Instrumento</th>
+        <th>Marca</th>
+        <th>Modelo</th>
+        <th>Imagen</th>
+        <th>Precio</th>
+        <th>Costo Envio</th>
+        <th>Cantidad Vendida</th>
+        <th>Descripción</th>
+        <th>Modificar</th>
+        <th>Eliminar</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let instrumento of instrumentos" class="table-row-hover">
+        <td>{{ instrumento.id }}</td>
+        <td>{{ instrumento.instrumento }}</td>
+        <td>{{ instrumento.marca }}</td>
+        <td>{{ instrumento.modelo }}</td>
+        <td>{{ instrumento.imagen }}</td>
+        <td>{{ instrumento.precio }}</td>
+        <td>{{ instrumento.costoEnvio }}</td>
+        <td>{{ instrumento.cantidadVendida }}</td>
+        <td>
+          {{
+            instrumento.descripcion
+              ? instrumento.descripcion.slice(0, 50) + "..."
+              : ""
+          }}
+        </td>
+        <td>
+          <a
+            class="btn btn-success"
+            [href]="'/instrumentos/formulario/' + instrumento.id"
+            role="button"
+            >Editar</a
+          >
+        </td>
+        <td>
+          <button
+            type="button"
+            (click)="handleDelete(instrumento.id)"
+            class="btn btn-danger"
+          >
+            Eliminar
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

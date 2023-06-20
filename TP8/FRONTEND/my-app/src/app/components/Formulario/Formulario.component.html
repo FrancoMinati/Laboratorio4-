@@ -1,0 +1,156 @@
+<div style="max-width: 75%; padding-left: 25%">
+  <h1 class="fw-bold fs-3 mt-4 text-start">Formulario Instrumento</h1>
+  <div class="row pt-5">
+    <div class="col-md-6">
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput1"
+          class="form-label fw-bold text-start"
+          >Nombre</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="instrumento"
+          [value]="instrumentoData.instrumento"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput1"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput2"
+          class="form-label fw-bold text-start"
+          >Modelo</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="modelo"
+          [value]="instrumentoData.modelo"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput2"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput3"
+          class="form-label fw-bold text-start"
+          >Marca</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="marca"
+          [value]="instrumentoData.marca"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput3"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput4"
+          class="form-label fw-bold text-start"
+          >Precio</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="precio"
+          [value]="instrumentoData.precio"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput4"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput5"
+          class="form-label fw-bold text-start"
+          >URL de la Imagen</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="imagen"
+          [value]="instrumentoData.imagen"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput5"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput6"
+          class="form-label fw-bold text-start"
+          >Descripcion</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="descripcion"
+
+          [value]="instrumentoData.descripcion"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput6"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput7"
+          class="form-label fw-bold text-start"
+          >Cantidad Vendida</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="cantidadVendida"
+          [value]="instrumentoData.cantidadVendida"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput7"
+          placeholder="Ingrese
+        el valor..."
+          required
+        />
+      </div>
+      <div class="mb-3 d-flex flex-column">
+        <label
+          for="exampleFormControlInput8"
+          class="form-label fw-bold text-start"
+          >Costo Envio</label
+        >
+        <input
+          (change)="handleChange($event)"
+          name="costoEnvio"
+          [value]="instrumentoData.costoEnvio"
+          type="text"
+          class="form-control"
+          id="exampleFormControlInput8"
+          placeholder="Ingrese el valor..."
+          required
+        />
+      </div>
+    </div>
+  </div>
+  <div class="col-auto">
+    <button
+      type="button"
+      class="btn btn-danger mb-3 d-flex flex-column"
+      (click)="handleSubmit()"
+    >
+      Guardar
+    </button>
+  </div>
+</div>
